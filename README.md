@@ -21,7 +21,7 @@ My 1st Project on Tableau: https://public.tableau.com/app/profile/md.azim5506/vi
 
 My 1st Project on Power BI: https://app.powerbi.com/groups/me/reports/895ab1d9-942f-40fe-bf0b-f03bc99818b1/7aff039d7c690723ccdd?experience=power-bi
 
-I am a content creator on academic turorials. Link of my Youtube Content: https://www.youtube.com/@Md_Azim
+I am a content creator on academic tutorial. Link of my Youtube Content: https://www.youtube.com/@Md_Azim
 
 
 
